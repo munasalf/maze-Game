@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Maze Escape Game in C#/1.0.0": {
+        "runtime": {
+          "Maze Escape Game in C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maze Escape Game in C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
